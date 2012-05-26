@@ -1,0 +1,21 @@
+Final Project
+Advanced Graphics
+Simulation and Modelling
+
+Rafael Ayala
+Jordan Stadler
+
+Dependancies
+------------
+	- GCC or similar C compiler
+	- OpenGL libraries
+
+How to Run (Linux)
+----------
+	$ make
+	$ make run
+
+Description
+-----------
+	- Spheres that move on curves with randomized endpoints
+	- Spheres deteriorate over time (particles fly out)
